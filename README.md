@@ -11,3 +11,4 @@ v2: (Weaponry)
 v3: (Gui)
 -Added start menu
 -Swapped font
+-Added enemies that pretend to be dead
