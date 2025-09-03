@@ -12,3 +12,7 @@ v3: (Gui)
 -Added start menu
 -Swapped font
 -Added enemies that pretend to be dead
+
+v4: (Tree)
+-Added trees
+-Added weapon switching
